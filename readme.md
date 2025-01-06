@@ -1,4 +1,4 @@
-# 🌐 HTML Learning Syllabus 📚 (PENDING...)
+# 🌐 HTML Learning Syllabus 📚 (PENDING..)
 
 Welcome to the HTML Learning Journey! 🚀 This syllabus will guide you from the basics to more advanced topics in HTML. Each section builds on the previous one, giving you a solid understanding of HTML and its application in web development.
 
